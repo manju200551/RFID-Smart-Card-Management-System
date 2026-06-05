@@ -71,7 +71,7 @@ Status : Verified Successfully
 
 ## Hardware Setup
 
-https://drive.google.com/file/d/1DwpiVo3omSe4ebDyyFoi_SOYfq8Yp_uV/view?usp=drivesdk
+hardware_setup.jpeg
 
 ## Output
 
