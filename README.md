@@ -71,11 +71,13 @@ Status : Verified Successfully
 
 ## Hardware Setup
 
-hardware_setup.jpeg
+<img width="1600" height="980" alt="image" src="https://github.com/user-attachments/assets/643ecdce-941b-433e-9e88-9774513c2bb0" />
+
 
 ## Output
 
-https://drive.google.com/file/d/1qZ_UXWyHYgjku9YoNdhqhjUryjVNw3wf/view?usp=drivesdk
+<img width="702" height="1600" alt="WhatsApp Image 2026-06-05 at 4 49 16 PM" src="https://github.com/user-attachments/assets/2c4b4810-5fc4-4a8f-bc70-7b0aa54c7d9d" />
+
 
 ## Demo Video
 
