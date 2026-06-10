@@ -125,9 +125,3 @@ RFID-Smart-Card-Management-System/
 ├── Documentation/
 
 └── Demo/
-
-## Author
-
-Kiruba Kanth
-
-Electronics and Communication Engineering (ECE)
